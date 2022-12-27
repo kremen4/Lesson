@@ -1,1 +1,2 @@
 read  scrum 
+learn Agil(Kanban), creat bug reports
